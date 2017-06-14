@@ -1,5 +1,5 @@
 
-If you use the bundler program in my bundle repo, 
+If you use the bundler program in my bundler repo, 
 a bundled module can be run as a web worker using the following call:
 
      import workify from 'workify';
